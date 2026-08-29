@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+Up+Duhemen...;Follow+the+White+LUCA...;System+Online...;LUCA+is+Last+Universal+Common+Ancestor...;Microba+bersel+satu+yang+hidup+4+milyar+tahun+lalu..." alt="Matrix Typing SVG" />
 
   <h2 style="color: #00FF00; font-family: 'Courier New', monospace; margin-top: 20px;">
-    🟢 MATRIX PROTOCOL ACTIVE
+    🟢 LUCA PROTOCOL ACTIVE
   </h2>
   
   <p style="color: #00FF00; font-family: 'Courier New', monospace; font-size: 16px;">
-    The Matrix has you... Emen, you are the One.
+    The LUCA is All Live... Emen, you are the One.
   </p>
 
 </div>
@@ -53,10 +53,6 @@ Berikut adalah **teknologi dan tools** yang saya gunakan untuk membangun sistem 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duhemen&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
