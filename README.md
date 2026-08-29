@@ -1,47 +1,38 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile!;Building+Useful+Digital+Tools;Securing+the+Digital+World+with+Code+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+up%2C+Emen...;The+Matrix+has+you...;Follow+the+white+rabbit...;SBS+is+watching+you...;System+Security+Engaged..." alt="Matrix Typing SVG" />
 </p>
 
 ---
+
+## 🟢 SISTEM SBS: MATRIX PROTOCOL ACTIVE
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Focus-CyberSecurity-00C853?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Location-PalangkaRaya-FF5733?style=for-the-badge&logo=map-pin&logoColor=white" alt="Location">
+  <img src="https://media.giphy.com/media/3o7aD2H8jU2qI1W1eU/giphy.gif" width="600" alt="Matrix Rain Code" />
 </p>
 
 ---
 
-# 👋 Halo, Saya Emen (duhemen)!
+### 👋 Halo, Saya Emen (duhemen)!
 
-Selamat datang di profil GitHub saya! Saya adalah seorang **developer dan praktisi keamanan siber** yang berfokus pada membangun tools digital yang berguna, aman, dan berdampak nyata.
-
-Saat ini, saya sedang mengembangkan proyek-proyek seperti:
-- 🛡️ **SBS (Side-by-Side)** — Sistem Deteksi Intrusi Jaringan berbasis Python.
-- 🕵️‍♂️ **mNcy-Guard** — Monitoring jaringan untuk keamanan siber.
-- 🤖 **aioffice** — Sistem Edukasi berbasis AI.
-- 🔗 **GIC-2045** — Proyek blockchain & transparansi.
-- 📓 **jurnal** — Aplikasi pencatatan dan dokumentasi.
+Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **mNcy-Guard**, dan **aioffice**. Saya percaya bahwa **keamanan siber adalah seni bertahan di dalam Matrix**.
 
 ---
 
-## 🧰 Teknologi & Tools yang Saya Gunakan
+## 🧰 Teknologi & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Tkinter-0078D4?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/WinDivert-00C853?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Statistik GitHub Saya
+## 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duhemen&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -50,16 +41,13 @@ Saat ini, saya sedang mengembangkan proyek-proyek seperti:
 
 <p align="center">
   <a href="https://github.com/duhemen/sbs">
-    <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_SBS-Enterprise%20Intrusion%20Detection%20System-38BDF8?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🛡️_SBS-Intrusion%20Detection%20System-00FF00?style=for-the-badge" />
   </a>
   <a href="https://github.com/duhemen/mncy-guard">
-    <img src="https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_mNcy_Guard-Network%20Monitoring%20Tool-00C853?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🕵️_mNcy_Guard-Network%20Monitor-00C853?style=for-the-badge" />
   </a>
   <a href="https://github.com/duhemen/aioffice">
-    <img src="https://img.shields.io/badge/%F0%9F%A4%96_aioffice-Sistem%20Edukasi%20AI-F59E0B?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/duhemen/gic-2045">
-    <img src="https://img.shields.io/badge/%F0%9F%94%97_GIC_2045-Blockchain%20%26%20Transparansi-EF4444?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤖_aioffice-Sistem%20Edukasi%20AI-F59E0B?style=for-the-badge" />
   </a>
 </p>
 
@@ -74,13 +62,10 @@ Saat ini, saya sedang mengembangkan proyek-proyek seperti:
   <a href="https://duhumn.blogspot.com">
     <img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=duhemen&color=38BDF8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=duhemen&color=00FF00&style=flat-square" alt="Profile Views" />
 </p>
