@@ -17,7 +17,7 @@
 
 ### 👋 Halo, Saya Emen (duhemen)!
 
-> *"Saya adalah nothing. Bukan karena saya tidak ada, tapi karena saya memahami bahwa segala sesuatu yang saya bangun hari ini, hanyalah percikan kecil dari evolusi yang dimulai oleh mikroba bersel satu, 4 miliar tahun yang lalu."*
+*"Saya adalah nothing. Bukan karena saya tidak ada, tapi karena saya memahami bahwa segala sesuatu yang saya bangun hari ini, hanyalah percikan kecil dari evolusi yang dimulai oleh mikroba bersel satu, 4 miliar tahun yang lalu."*
 
 ---
 
