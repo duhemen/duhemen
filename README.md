@@ -36,7 +36,7 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhemen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true&locale=id" alt="GitHub Stats" />
 </p>
 
 ---
