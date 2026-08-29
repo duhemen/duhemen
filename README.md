@@ -41,8 +41,7 @@ Saat ini, saya sedang mengembangkan proyek-proyek seperti:
 ## 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhemen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duhemen&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
