@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+up%2C+Emen...;The+Matrix+has+you...;Follow+the+white+rabbit...;SBS+is+watching+you...;System+Security+Engaged..." alt="Matrix Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+Matrix+Protocol...;Follow+the+White+Rabbit...;I+am+Emen...+System+Online...;SBS+Security+Engaged..." alt="Matrix Typing SVG" />
 </p>
 
 ---
@@ -7,7 +7,7 @@
 ## 🟢 SISTEM SBS: MATRIX PROTOCOL ACTIVE
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2H8jU2qI1W1eU/giphy.gif" width="600" alt="Matrix Rain Code" />
+  <img src="https://raw.githubusercontent.com/duhemen/duhemen/main/matrix-rain.gif" width="600" alt="Matrix Rain" />
 </p>
 
 ---
@@ -35,6 +35,10 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
   <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhemen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 ---
 
 ## 🏆 Proyek Unggulan
@@ -49,6 +53,9 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
   <a href="https://github.com/duhemen/aioffice">
     <img src="https://img.shields.io/badge/🤖_aioffice-Sistem%20Edukasi%20AI-F59E0B?style=for-the-badge" />
   </a>
+  <a href="https://github.com/duhemen/gic-2045">
+    <img src="https://img.shields.io/badge/🔗_GIC_2045-Blockchain%20%26%20Transparansi-EF4444?style=for-the-badge" />
+  </a>
 </p>
 
 ---
@@ -61,6 +68,9 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
   </a>
   <a href="https://duhumn.blogspot.com">
     <img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
+  </a>
+  <a href="mailto:email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
