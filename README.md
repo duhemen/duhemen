@@ -21,7 +21,7 @@
 
 ---
 
-## 🟢 SISTEM SBS: TEKNOLOGI & TOOLS
+## 🟢 TEKNOLOGI & TOOLS
 
 Berikut adalah **teknologi dan tools** yang saya gunakan untuk membangun sistem keamanan siber, AI, dan automasi:
 
