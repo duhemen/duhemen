@@ -50,16 +50,16 @@ Saat ini, saya sedang mengembangkan proyek-proyek seperti:
 
 <p align="center">
   <a href="https://github.com/duhemen/sbs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duhemen&repo=sbs&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F_SBS-Enterprise%20Intrusion%20Detection%20System-38BDF8?style=for-the-badge" />
   </a>
   <a href="https://github.com/duhemen/mncy-guard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duhemen&repo=mncy-guard&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/%F0%9F%95%B5%EF%B8%8F_mNcy_Guard-Network%20Monitoring%20Tool-00C853?style=for-the-badge" />
   </a>
   <a href="https://github.com/duhemen/aioffice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duhemen&repo=aioffice&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/%F0%9F%A4%96_aioffice-Sistem%20Edukasi%20AI-F59E0B?style=for-the-badge" />
   </a>
   <a href="https://github.com/duhemen/gic-2045">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duhemen&repo=gic-2045&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/%F0%9F%94%97_GIC_2045-Blockchain%20%26%20Transparansi-EF4444?style=for-the-badge" />
   </a>
 </p>
 
