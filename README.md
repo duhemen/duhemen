@@ -1,7 +1,7 @@
 <!-- Background Gelap Cyberpunk Orisinal (CSS) -->
 <div align="center" style="background: linear-gradient(135deg, #000000 0%, #001a00 50%, #003300 100%); padding: 30px; border: 2px solid #00FF00; border-radius: 15px; margin-bottom: 20px;">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+up%2C+Emen...;Follow+the+White+Rabbit...;SBS+Security+Engaged...;System+Online..." alt="Matrix Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+Up+Duhemen...;Follow+the+White+LUCA...;System+Online...;LUCA+is+Last+Universal+Common+Ancestor...;Microba+bersel+satu+yang+hidup+4+milyar+tahun+lalu..." alt="Matrix Typing SVG" />
 
   <h2 style="color: #00FF00; font-family: 'Courier New', monospace; margin-top: 20px;">
     🟢 MATRIX PROTOCOL ACTIVE
@@ -17,23 +17,13 @@
 
 ### 👋 Halo, Saya Emen (duhemen)!
 
-Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **mNcy-Guard**, dan **aioffice**. Saya percaya bahwa **keamanan siber adalah seni bertahan di dalam Matrix**.
+> *"Saya adalah nothing. Bukan karena saya tidak ada, tapi karena saya memahami bahwa segala sesuatu yang saya bangun hari ini, hanyalah percikan kecil dari evolusi yang dimulai oleh mikroba bersel satu, 4 miliar tahun yang lalu."*
 
 ---
 
-## 🟢 SISTEM SBS: TERMINAL MODE
+## 🟢 SISTEM SBS: TEKNOLOGI & TOOLS
 
-```text
-> SBS Version 2.0 - Enterprise Intrusion Detection
-> Status: ONLINE
-> Mode: Side-by-Side
-> Monitoring Port: 21, 22, 445, 3389, 8080...
-> Threats Detected: 0 (and counting)
-```
-
----
-
-## 🧰 Teknologi & Tools
+Berikut adalah **teknologi dan tools** yang saya gunakan untuk membangun sistem keamanan siber, AI, dan automasi:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,12 +32,31 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-00C853?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-6E4B9E?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" />
+  <img src="https://img.shields.io/badge/MAF-FF5733?style=for-the-badge&logo=robot&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AutoGen-F59E0B?style=for-the-badge&logo=autogen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Crawling-38BDF8?style=for-the-badge&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bypass%20Captcha-EF4444?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-10B981?style=for-the-badge&logo=network&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 Statistik GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duhemen&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -90,5 +99,3 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=duhemen&color=00FF00&style=flat-square" alt="Profile Views" />
 </p>
-
----
