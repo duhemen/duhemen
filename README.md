@@ -32,7 +32,7 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duhemen&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
