@@ -1,20 +1,35 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+Matrix+Protocol...;Follow+the+White+Rabbit...;I+am+Emen...+System+Online...;SBS+Security+Engaged..." alt="Matrix Typing SVG" />
-</p>
+<!-- Background Gelap Cyberpunk Orisinal (CSS) -->
+<div align="center" style="background: linear-gradient(135deg, #000000 0%, #001a00 50%, #003300 100%); padding: 30px; border: 2px solid #00FF00; border-radius: 15px; margin-bottom: 20px;">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=Wake+up%2C+Emen...;Follow+the+White+Rabbit...;SBS+Security+Engaged...;System+Online..." alt="Matrix Typing SVG" />
 
----
+  <h2 style="color: #00FF00; font-family: 'Courier New', monospace; margin-top: 20px;">
+    🟢 MATRIX PROTOCOL ACTIVE
+  </h2>
+  
+  <p style="color: #00FF00; font-family: 'Courier New', monospace; font-size: 16px;">
+    The Matrix has you... Emen, you are the One.
+  </p>
 
-## 🟢 SISTEM SBS: MATRIX PROTOCOL ACTIVE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/duhemen/duhemen/main/matrix-rain.gif" width="600" alt="Matrix Rain" />
-</p>
+</div>
 
 ---
 
 ### 👋 Halo, Saya Emen (duhemen)!
 
 Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **mNcy-Guard**, dan **aioffice**. Saya percaya bahwa **keamanan siber adalah seni bertahan di dalam Matrix**.
+
+---
+
+## 🟢 SISTEM SBS: TERMINAL MODE
+
+```text
+> SBS Version 2.0 - Enterprise Intrusion Detection
+> Status: ONLINE
+> Mode: Side-by-Side
+> Monitoring Port: 21, 22, 445, 3389, 8080...
+> Threats Detected: 0 (and counting)
+```
 
 ---
 
@@ -33,6 +48,10 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=duhemen&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -75,3 +94,5 @@ Saya adalah **Developer & Cybersecurity Enthusiast** yang membangun **SBS**, **m
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=duhemen&color=00FF00&style=flat-square" alt="Profile Views" />
 </p>
+
+---
