@@ -85,9 +85,6 @@ Berikut adalah **teknologi dan tools** yang saya gunakan untuk membangun sistem 
   <a href="https://duhumn.blogspot.com">
     <img src="https://img.shields.io/badge/Blogspot-FF5722?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="mailto:email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
