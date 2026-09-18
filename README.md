@@ -265,20 +265,6 @@ Sistem verifikasi ijazah berbasis blockchain + ECDSA digital signature untuk men
 
 <br/><br/>
 
-<!-- Stats & Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api?username=duhemen&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duhemen&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&langs_count=8" alt="Top Languages" height="180" />
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=duhemen&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="95%" />
-
-<br/><br/>
-
-<!-- Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=duhemen&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="95%" />
-
 </div>
 
 ---
