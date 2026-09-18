@@ -68,7 +68,7 @@
 
 ### 🔬 Siapa Saya?
 
-Halo! Saya **Emen** (dikenal juga sebagai **duhemen**). Saya seorang **Cyber Security Enthusiast** dan **AI Engineer** yang terobsesi dengan membangun sistem otomatis yang aman, cerdas, dan transparan.
+Halo! Saya **Emen** (dikenal juga sebagai **duhemen**). Saya seorang **Pengagung LUCA** dan **Proses Photosintesis** yang terobsesi dengan membangun sistem otomatis yang aman, cerdas, dan transparan.
 
 Konsep **LUCA Protocol** yang saya gunakan adalah metafora:
 - **LUCA** (*Last Universal Common Ancestor*) adalah mikroba pertama di Bumi — awal dari segalanya
