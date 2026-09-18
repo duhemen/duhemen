@@ -68,7 +68,7 @@
 
 ### 🔬 Siapa Saya?
 
-Halo! Saya **Emen** (dikenal juga sebagai **duhemen**). Saya seorang **Pengagung LUCA** dan **Proses Photosintesis** yang terobsesi dengan membangun sistem otomatis yang aman, cerdas, dan transparan.
+Halo! Saya **Emen** (dikenal juga sebagai **duhemen**). Saya seorang **Pengagum LUCA** tidak punya kecerdasan tapi punya intuisi bertahan hidup apa namanya kalau bukan kecerdasan 😁 dan **Proses Photosintesis** bagai mana daun bisa menghasilkan energy hanya dari sinar matahari serta hara dari dalam tanah 😮 yang enggak juga terobsesi, sekadar follow the rhitme dengan membangun sistem otomatis yang aman, cerdas, dan transparan kalau bisa ya akuntabel juga lah 🤣.
 
 Konsep **LUCA Protocol** yang saya gunakan adalah metafora:
 - **LUCA** (*Last Universal Common Ancestor*) adalah mikroba pertama di Bumi — awal dari segalanya
